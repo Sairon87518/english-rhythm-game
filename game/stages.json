@@ -1,0 +1,1437 @@
+[
+  {
+    "name": "Stage 1",
+    "sentence_words": [
+      "The",
+      "QUICK",
+      "brown",
+      "FOX",
+      "jumps",
+      "OVER",
+      "the",
+      "LAZY",
+      "dog."
+    ],
+    "targets": [
+      {
+        "word": "QUICK",
+        "word_index": 1,
+        "beat_time": 2.099
+      },
+      {
+        "word": "FOX",
+        "word_index": 3,
+        "beat_time": 2.936
+      },
+      {
+        "word": "OVER",
+        "word_index": 5,
+        "beat_time": 3.654
+      },
+      {
+        "word": "LAZY",
+        "word_index": 7,
+        "beat_time": 4.312
+      }
+    ],
+    "audio_file": "assets/stage1.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 3.72
+  },
+  {
+    "name": "Stage 2",
+    "sentence_words": [
+      "SHE",
+      "sells",
+      "SEA",
+      "shells",
+      "by",
+      "the",
+      "SEA",
+      "shore"
+    ],
+    "targets": [
+      {
+        "word": "SHE",
+        "word_index": 0,
+        "beat_time": 1.8
+      },
+      {
+        "word": "SEA",
+        "word_index": 2,
+        "beat_time": 2.439
+      },
+      {
+        "word": "SEA",
+        "word_index": 6,
+        "beat_time": 3.611
+      }
+    ],
+    "audio_file": "assets/stage2.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 3.0
+  },
+  {
+    "name": "Stage 3",
+    "sentence_words": [
+      "PETER",
+      "Piper",
+      "PICKED",
+      "a",
+      "PECK",
+      "of",
+      "PICKLED",
+      "peppers"
+    ],
+    "targets": [
+      {
+        "word": "PETER",
+        "word_index": 0,
+        "beat_time": 1.8
+      },
+      {
+        "word": "PICKED",
+        "word_index": 2,
+        "beat_time": 2.555
+      },
+      {
+        "word": "PECK",
+        "word_index": 4,
+        "beat_time": 3.148
+      },
+      {
+        "word": "PICKLED",
+        "word_index": 6,
+        "beat_time": 3.687
+      }
+    ],
+    "audio_file": "assets/stage3.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 3.408
+  },
+  {
+    "name": "Stage 4",
+    "sentence_words": [
+      "I",
+      "REALLY",
+      "love",
+      "this",
+      "SONG."
+    ],
+    "targets": [
+      {
+        "word": "I",
+        "word_index": 0,
+        "beat_time": 1.8
+      },
+      {
+        "word": "REALLY",
+        "word_index": 1,
+        "beat_time": 1.996
+      },
+      {
+        "word": "SONG.",
+        "word_index": 4,
+        "beat_time": 3.305
+      }
+    ],
+    "audio_file": "assets/stage4.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.448
+  },
+  {
+    "name": "Stage 5",
+    "sentence_words": [
+      "She",
+      "CAN'T",
+      "find",
+      "her",
+      "KEYS."
+    ],
+    "targets": [
+      {
+        "word": "CAN'T",
+        "word_index": 1,
+        "beat_time": 2.131
+      },
+      {
+        "word": "KEYS.",
+        "word_index": 4,
+        "beat_time": 3.324
+      }
+    ],
+    "audio_file": "assets/stage5.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.472
+  },
+  {
+    "name": "Stage 6",
+    "sentence_words": [
+      "We",
+      "ARE",
+      "going",
+      "to",
+      "the",
+      "PARK."
+    ],
+    "targets": [
+      {
+        "word": "ARE",
+        "word_index": 1,
+        "beat_time": 2.02
+      },
+      {
+        "word": "PARK.",
+        "word_index": 5,
+        "beat_time": 3.176
+      }
+    ],
+    "audio_file": "assets/stage6.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.256
+  },
+  {
+    "name": "Stage 7",
+    "sentence_words": [
+      "He",
+      "WORKS",
+      "very",
+      "HARD",
+      "every",
+      "day."
+    ],
+    "targets": [
+      {
+        "word": "WORKS",
+        "word_index": 1,
+        "beat_time": 2.05
+      },
+      {
+        "word": "HARD",
+        "word_index": 3,
+        "beat_time": 2.862
+      }
+    ],
+    "audio_file": "assets/stage7.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.736
+  },
+  {
+    "name": "Stage 8",
+    "sentence_words": [
+      "They",
+      "ALWAYS",
+      "play",
+      "SOCCER",
+      "on",
+      "Sundays."
+    ],
+    "targets": [
+      {
+        "word": "ALWAYS",
+        "word_index": 1,
+        "beat_time": 2.176
+      },
+      {
+        "word": "SOCCER",
+        "word_index": 3,
+        "beat_time": 3.054
+      }
+    ],
+    "audio_file": "assets/stage8.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 3.12
+  },
+  {
+    "name": "Stage 9",
+    "sentence_words": [
+      "Please",
+      "CLOSE",
+      "the",
+      "DOOR",
+      "quietly."
+    ],
+    "targets": [
+      {
+        "word": "CLOSE",
+        "word_index": 1,
+        "beat_time": 2.278
+      },
+      {
+        "word": "DOOR",
+        "word_index": 3,
+        "beat_time": 2.994
+      }
+    ],
+    "audio_file": "assets/stage9.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.64
+  },
+  {
+    "name": "Stage 10",
+    "sentence_words": [
+      "This",
+      "is",
+      "the",
+      "BEST",
+      "day",
+      "EVER."
+    ],
+    "targets": [
+      {
+        "word": "BEST",
+        "word_index": 3,
+        "beat_time": 2.69
+      },
+      {
+        "word": "EVER.",
+        "word_index": 5,
+        "beat_time": 3.342
+      }
+    ],
+    "audio_file": "assets/stage10.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.448
+  },
+  {
+    "name": "Stage 11",
+    "sentence_words": [
+      "I",
+      "NEED",
+      "some",
+      "HELP",
+      "right",
+      "now."
+    ],
+    "targets": [
+      {
+        "word": "I",
+        "word_index": 0,
+        "beat_time": 1.8
+      },
+      {
+        "word": "NEED",
+        "word_index": 1,
+        "beat_time": 1.968
+      },
+      {
+        "word": "HELP",
+        "word_index": 3,
+        "beat_time": 2.641
+      }
+    ],
+    "audio_file": "assets/stage11.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.4
+  },
+  {
+    "name": "Stage 12",
+    "sentence_words": [
+      "Let's",
+      "MEET",
+      "at",
+      "the",
+      "STATION."
+    ],
+    "targets": [
+      {
+        "word": "MEET",
+        "word_index": 1,
+        "beat_time": 2.196
+      },
+      {
+        "word": "STATION.",
+        "word_index": 4,
+        "beat_time": 3.045
+      }
+    ],
+    "audio_file": "assets/stage12.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.304
+  },
+  {
+    "name": "Stage 13",
+    "sentence_words": [
+      "The",
+      "WEATHER",
+      "looks",
+      "really",
+      "NICE",
+      "today."
+    ],
+    "targets": [
+      {
+        "word": "WEATHER",
+        "word_index": 1,
+        "beat_time": 2.072
+      },
+      {
+        "word": "NICE",
+        "word_index": 4,
+        "beat_time": 3.376
+      }
+    ],
+    "audio_file": "assets/stage13.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.832
+  },
+  {
+    "name": "Stage 14",
+    "sentence_words": [
+      "Can",
+      "you",
+      "HELP",
+      "me",
+      "with",
+      "this",
+      "PROBLEM?"
+    ],
+    "targets": [
+      {
+        "word": "HELP",
+        "word_index": 2,
+        "beat_time": 2.275
+      },
+      {
+        "word": "PROBLEM?",
+        "word_index": 6,
+        "beat_time": 3.319
+      }
+    ],
+    "audio_file": "assets/stage14.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.496
+  },
+  {
+    "name": "Stage 15",
+    "sentence_words": [
+      "I",
+      "WANT",
+      "to",
+      "learn",
+      "a",
+      "new",
+      "LANGUAGE."
+    ],
+    "targets": [
+      {
+        "word": "I",
+        "word_index": 0,
+        "beat_time": 1.8
+      },
+      {
+        "word": "WANT",
+        "word_index": 1,
+        "beat_time": 1.959
+      },
+      {
+        "word": "LANGUAGE.",
+        "word_index": 6,
+        "beat_time": 3.287
+      }
+    ],
+    "audio_file": "assets/stage15.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.568
+  },
+  {
+    "name": "Stage 16",
+    "sentence_words": [
+      "The",
+      "MOVIE",
+      "starts",
+      "at",
+      "SEVEN",
+      "o'clock."
+    ],
+    "targets": [
+      {
+        "word": "MOVIE",
+        "word_index": 1,
+        "beat_time": 2.088
+      },
+      {
+        "word": "SEVEN",
+        "word_index": 4,
+        "beat_time": 3.184
+      }
+    ],
+    "audio_file": "assets/stage16.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.856
+  },
+  {
+    "name": "Stage 17",
+    "sentence_words": [
+      "My",
+      "SISTER",
+      "lives",
+      "in",
+      "a",
+      "big",
+      "CITY."
+    ],
+    "targets": [
+      {
+        "word": "SISTER",
+        "word_index": 1,
+        "beat_time": 2.047
+      },
+      {
+        "word": "CITY.",
+        "word_index": 6,
+        "beat_time": 3.712
+      }
+    ],
+    "audio_file": "assets/stage17.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.832
+  },
+  {
+    "name": "Stage 18",
+    "sentence_words": [
+      "We",
+      "SHOULD",
+      "leave",
+      "EARLY",
+      "tomorrow."
+    ],
+    "targets": [
+      {
+        "word": "SHOULD",
+        "word_index": 1,
+        "beat_time": 2.011
+      },
+      {
+        "word": "EARLY",
+        "word_index": 3,
+        "beat_time": 2.802
+      }
+    ],
+    "audio_file": "assets/stage18.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.448
+  },
+  {
+    "name": "Stage 19",
+    "sentence_words": [
+      "He",
+      "BOUGHT",
+      "a",
+      "new",
+      "PAIR",
+      "of",
+      "shoes."
+    ],
+    "targets": [
+      {
+        "word": "BOUGHT",
+        "word_index": 1,
+        "beat_time": 2.018
+      },
+      {
+        "word": "PAIR",
+        "word_index": 4,
+        "beat_time": 2.891
+      }
+    ],
+    "audio_file": "assets/stage19.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.568
+  },
+  {
+    "name": "Stage 20",
+    "sentence_words": [
+      "I",
+      "FORGOT",
+      "my",
+      "UMBRELLA",
+      "at",
+      "home."
+    ],
+    "targets": [
+      {
+        "word": "I",
+        "word_index": 0,
+        "beat_time": 1.8
+      },
+      {
+        "word": "FORGOT",
+        "word_index": 1,
+        "beat_time": 1.983
+      },
+      {
+        "word": "UMBRELLA",
+        "word_index": 3,
+        "beat_time": 2.716
+      }
+    ],
+    "audio_file": "assets/stage20.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.688
+  },
+  {
+    "name": "Stage 21",
+    "sentence_words": [
+      "The",
+      "CHILDREN",
+      "are",
+      "playing",
+      "in",
+      "the",
+      "GARDEN."
+    ],
+    "targets": [
+      {
+        "word": "CHILDREN",
+        "word_index": 1,
+        "beat_time": 2.038
+      },
+      {
+        "word": "GARDEN.",
+        "word_index": 6,
+        "beat_time": 3.606
+      }
+    ],
+    "audio_file": "assets/stage21.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.736
+  },
+  {
+    "name": "Stage 22",
+    "sentence_words": [
+      "She",
+      "WORKS",
+      "as",
+      "a",
+      "NURSE",
+      "at",
+      "the",
+      "hospital."
+    ],
+    "targets": [
+      {
+        "word": "WORKS",
+        "word_index": 1,
+        "beat_time": 2.056
+      },
+      {
+        "word": "NURSE",
+        "word_index": 4,
+        "beat_time": 2.774
+      }
+    ],
+    "audio_file": "assets/stage22.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.856
+  },
+  {
+    "name": "Stage 23",
+    "sentence_words": [
+      "Let's",
+      "ORDER",
+      "some",
+      "PIZZA",
+      "tonight."
+    ],
+    "targets": [
+      {
+        "word": "ORDER",
+        "word_index": 1,
+        "beat_time": 2.216
+      },
+      {
+        "word": "PIZZA",
+        "word_index": 3,
+        "beat_time": 2.988
+      }
+    ],
+    "audio_file": "assets/stage23.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.688
+  },
+  {
+    "name": "Stage 24",
+    "sentence_words": [
+      "I",
+      "HAVEN'T",
+      "seen",
+      "him",
+      "in",
+      "a",
+      "LONG",
+      "time."
+    ],
+    "targets": [
+      {
+        "word": "I",
+        "word_index": 0,
+        "beat_time": 1.8
+      },
+      {
+        "word": "HAVEN'T",
+        "word_index": 1,
+        "beat_time": 1.958
+      },
+      {
+        "word": "LONG",
+        "word_index": 6,
+        "beat_time": 3.379
+      }
+    ],
+    "audio_file": "assets/stage24.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.76
+  },
+  {
+    "name": "Stage 25",
+    "sentence_words": [
+      "The",
+      "TRAIN",
+      "was",
+      "DELAYED",
+      "this",
+      "morning."
+    ],
+    "targets": [
+      {
+        "word": "TRAIN",
+        "word_index": 1,
+        "beat_time": 2.061
+      },
+      {
+        "word": "DELAYED",
+        "word_index": 3,
+        "beat_time": 2.686
+      }
+    ],
+    "audio_file": "assets/stage25.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.688
+  },
+  {
+    "name": "Stage 26",
+    "sentence_words": [
+      "He",
+      "ALWAYS",
+      "arrives",
+      "EARLY",
+      "for",
+      "meetings."
+    ],
+    "targets": [
+      {
+        "word": "ALWAYS",
+        "word_index": 1,
+        "beat_time": 2.03
+      },
+      {
+        "word": "EARLY",
+        "word_index": 3,
+        "beat_time": 3.008
+      }
+    ],
+    "audio_file": "assets/stage26.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 3.024
+  },
+  {
+    "name": "Stage 27",
+    "sentence_words": [
+      "Could",
+      "you",
+      "PASS",
+      "me",
+      "the",
+      "SALT,",
+      "please?"
+    ],
+    "targets": [
+      {
+        "word": "PASS",
+        "word_index": 2,
+        "beat_time": 2.398
+      },
+      {
+        "word": "SALT,",
+        "word_index": 5,
+        "beat_time": 3.145
+      }
+    ],
+    "audio_file": "assets/stage27.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.592
+  },
+  {
+    "name": "Stage 28",
+    "sentence_words": [
+      "We",
+      "WATCHED",
+      "a",
+      "great",
+      "FILM",
+      "last",
+      "night."
+    ],
+    "targets": [
+      {
+        "word": "WATCHED",
+        "word_index": 1,
+        "beat_time": 2.029
+      },
+      {
+        "word": "FILM",
+        "word_index": 4,
+        "beat_time": 3.115
+      }
+    ],
+    "audio_file": "assets/stage28.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.952
+  },
+  {
+    "name": "Stage 29",
+    "sentence_words": [
+      "The",
+      "COFFEE",
+      "is",
+      "TOO",
+      "hot",
+      "to",
+      "drink."
+    ],
+    "targets": [
+      {
+        "word": "COFFEE",
+        "word_index": 1,
+        "beat_time": 2.097
+      },
+      {
+        "word": "TOO",
+        "word_index": 3,
+        "beat_time": 2.81
+      }
+    ],
+    "audio_file": "assets/stage29.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.808
+  },
+  {
+    "name": "Stage 30",
+    "sentence_words": [
+      "I'm",
+      "LOOKING",
+      "for",
+      "a",
+      "QUIET",
+      "place",
+      "to",
+      "study."
+    ],
+    "targets": [
+      {
+        "word": "LOOKING",
+        "word_index": 1,
+        "beat_time": 2.068
+      },
+      {
+        "word": "QUIET",
+        "word_index": 4,
+        "beat_time": 2.981
+      }
+    ],
+    "audio_file": "assets/stage30.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 3.072
+  },
+  {
+    "name": "Stage 31",
+    "sentence_words": [
+      "They",
+      "MOVED",
+      "to",
+      "a",
+      "new",
+      "HOUSE",
+      "last",
+      "year."
+    ],
+    "targets": [
+      {
+        "word": "MOVED",
+        "word_index": 1,
+        "beat_time": 2.118
+      },
+      {
+        "word": "HOUSE",
+        "word_index": 5,
+        "beat_time": 3.124
+      }
+    ],
+    "audio_file": "assets/stage31.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.88
+  },
+  {
+    "name": "Stage 32",
+    "sentence_words": [
+      "The",
+      "DOG",
+      "barked",
+      "LOUDLY",
+      "at",
+      "the",
+      "mailman."
+    ],
+    "targets": [
+      {
+        "word": "DOG",
+        "word_index": 1,
+        "beat_time": 2.078
+      },
+      {
+        "word": "LOUDLY",
+        "word_index": 3,
+        "beat_time": 2.802
+      }
+    ],
+    "audio_file": "assets/stage32.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 3.0
+  },
+  {
+    "name": "Stage 33",
+    "sentence_words": [
+      "She",
+      "SPEAKS",
+      "three",
+      "DIFFERENT",
+      "languages."
+    ],
+    "targets": [
+      {
+        "word": "SPEAKS",
+        "word_index": 1,
+        "beat_time": 2.092
+      },
+      {
+        "word": "DIFFERENT",
+        "word_index": 3,
+        "beat_time": 2.967
+      }
+    ],
+    "audio_file": "assets/stage33.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 3.0
+  },
+  {
+    "name": "Stage 34",
+    "sentence_words": [
+      "I",
+      "CAN'T",
+      "remember",
+      "his",
+      "NAME."
+    ],
+    "targets": [
+      {
+        "word": "I",
+        "word_index": 0,
+        "beat_time": 1.8
+      },
+      {
+        "word": "CAN'T",
+        "word_index": 1,
+        "beat_time": 1.981
+      },
+      {
+        "word": "NAME.",
+        "word_index": 4,
+        "beat_time": 3.311
+      }
+    ],
+    "audio_file": "assets/stage34.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.424
+  },
+  {
+    "name": "Stage 35",
+    "sentence_words": [
+      "The",
+      "FLIGHT",
+      "leaves",
+      "at",
+      "MIDNIGHT."
+    ],
+    "targets": [
+      {
+        "word": "FLIGHT",
+        "word_index": 1,
+        "beat_time": 2.078
+      },
+      {
+        "word": "MIDNIGHT.",
+        "word_index": 4,
+        "beat_time": 3.19
+      }
+    ],
+    "audio_file": "assets/stage35.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.496
+  },
+  {
+    "name": "Stage 36",
+    "sentence_words": [
+      "He",
+      "PLAYS",
+      "the",
+      "GUITAR",
+      "every",
+      "evening."
+    ],
+    "targets": [
+      {
+        "word": "PLAYS",
+        "word_index": 1,
+        "beat_time": 2.033
+      },
+      {
+        "word": "GUITAR",
+        "word_index": 3,
+        "beat_time": 2.732
+      }
+    ],
+    "audio_file": "assets/stage36.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.88
+  },
+  {
+    "name": "Stage 37",
+    "sentence_words": [
+      "We",
+      "NEED",
+      "more",
+      "TIME",
+      "to",
+      "finish",
+      "this."
+    ],
+    "targets": [
+      {
+        "word": "NEED",
+        "word_index": 1,
+        "beat_time": 2.023
+      },
+      {
+        "word": "TIME",
+        "word_index": 3,
+        "beat_time": 2.694
+      }
+    ],
+    "audio_file": "assets/stage37.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.784
+  },
+  {
+    "name": "Stage 38",
+    "sentence_words": [
+      "The",
+      "STORE",
+      "closes",
+      "at",
+      "NINE",
+      "tonight."
+    ],
+    "targets": [
+      {
+        "word": "STORE",
+        "word_index": 1,
+        "beat_time": 2.099
+      },
+      {
+        "word": "NINE",
+        "word_index": 4,
+        "beat_time": 3.234
+      }
+    ],
+    "audio_file": "assets/stage38.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.88
+  },
+  {
+    "name": "Stage 39",
+    "sentence_words": [
+      "I",
+      "JUST",
+      "finished",
+      "my",
+      "HOMEWORK."
+    ],
+    "targets": [
+      {
+        "word": "I",
+        "word_index": 0,
+        "beat_time": 1.8
+      },
+      {
+        "word": "JUST",
+        "word_index": 1,
+        "beat_time": 1.988
+      },
+      {
+        "word": "HOMEWORK.",
+        "word_index": 4,
+        "beat_time": 3.24
+      }
+    ],
+    "audio_file": "assets/stage39.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.616
+  },
+  {
+    "name": "Stage 40",
+    "sentence_words": [
+      "She",
+      "SMILED",
+      "and",
+      "WAVED",
+      "at",
+      "us."
+    ],
+    "targets": [
+      {
+        "word": "SMILED",
+        "word_index": 1,
+        "beat_time": 2.109
+      },
+      {
+        "word": "WAVED",
+        "word_index": 3,
+        "beat_time": 2.914
+      }
+    ],
+    "audio_file": "assets/stage40.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.592
+  },
+  {
+    "name": "Stage 41",
+    "sentence_words": [
+      "The",
+      "WEATHER",
+      "changed",
+      "VERY",
+      "suddenly."
+    ],
+    "targets": [
+      {
+        "word": "WEATHER",
+        "word_index": 1,
+        "beat_time": 2.089
+      },
+      {
+        "word": "VERY",
+        "word_index": 3,
+        "beat_time": 3.132
+      }
+    ],
+    "audio_file": "assets/stage41.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.808
+  },
+  {
+    "name": "Stage 42",
+    "sentence_words": [
+      "He",
+      "DRIVES",
+      "to",
+      "work",
+      "EVERY",
+      "day."
+    ],
+    "targets": [
+      {
+        "word": "DRIVES",
+        "word_index": 1,
+        "beat_time": 2.049
+      },
+      {
+        "word": "EVERY",
+        "word_index": 4,
+        "beat_time": 3.168
+      }
+    ],
+    "audio_file": "assets/stage42.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.664
+  },
+  {
+    "name": "Stage 43",
+    "sentence_words": [
+      "I",
+      "LOVE",
+      "the",
+      "SMELL",
+      "of",
+      "fresh",
+      "bread."
+    ],
+    "targets": [
+      {
+        "word": "I",
+        "word_index": 0,
+        "beat_time": 1.8
+      },
+      {
+        "word": "LOVE",
+        "word_index": 1,
+        "beat_time": 1.972
+      },
+      {
+        "word": "SMELL",
+        "word_index": 3,
+        "beat_time": 2.602
+      }
+    ],
+    "audio_file": "assets/stage43.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.784
+  },
+  {
+    "name": "Stage 44",
+    "sentence_words": [
+      "They",
+      "ARE",
+      "planning",
+      "a",
+      "SURPRISE",
+      "party."
+    ],
+    "targets": [
+      {
+        "word": "ARE",
+        "word_index": 1,
+        "beat_time": 2.127
+      },
+      {
+        "word": "SURPRISE",
+        "word_index": 4,
+        "beat_time": 3.108
+      }
+    ],
+    "audio_file": "assets/stage44.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.784
+  },
+  {
+    "name": "Stage 45",
+    "sentence_words": [
+      "The",
+      "BABY",
+      "fell",
+      "asleep",
+      "QUICKLY."
+    ],
+    "targets": [
+      {
+        "word": "BABY",
+        "word_index": 1,
+        "beat_time": 2.111
+      },
+      {
+        "word": "QUICKLY.",
+        "word_index": 4,
+        "beat_time": 3.354
+      }
+    ],
+    "audio_file": "assets/stage45.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.664
+  },
+  {
+    "name": "Stage 46",
+    "sentence_words": [
+      "We",
+      "WALKED",
+      "along",
+      "the",
+      "BEACH",
+      "at",
+      "sunset."
+    ],
+    "targets": [
+      {
+        "word": "WALKED",
+        "word_index": 1,
+        "beat_time": 2.023
+      },
+      {
+        "word": "BEACH",
+        "word_index": 4,
+        "beat_time": 3.141
+      }
+    ],
+    "audio_file": "assets/stage46.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.952
+  },
+  {
+    "name": "Stage 47",
+    "sentence_words": [
+      "He",
+      "FIXED",
+      "the",
+      "BROKEN",
+      "chair",
+      "himself."
+    ],
+    "targets": [
+      {
+        "word": "FIXED",
+        "word_index": 1,
+        "beat_time": 2.033
+      },
+      {
+        "word": "BROKEN",
+        "word_index": 3,
+        "beat_time": 2.732
+      }
+    ],
+    "audio_file": "assets/stage47.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.88
+  },
+  {
+    "name": "Stage 48",
+    "sentence_words": [
+      "I",
+      "HOPE",
+      "you",
+      "FEEL",
+      "better",
+      "soon."
+    ],
+    "targets": [
+      {
+        "word": "I",
+        "word_index": 0,
+        "beat_time": 1.8
+      },
+      {
+        "word": "HOPE",
+        "word_index": 1,
+        "beat_time": 1.97
+      },
+      {
+        "word": "FEEL",
+        "word_index": 3,
+        "beat_time": 2.591
+      }
+    ],
+    "audio_file": "assets/stage48.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.472
+  },
+  {
+    "name": "Stage 49",
+    "sentence_words": [
+      "The",
+      "TEACHER",
+      "explained",
+      "it",
+      "VERY",
+      "clearly."
+    ],
+    "targets": [
+      {
+        "word": "TEACHER",
+        "word_index": 1,
+        "beat_time": 2.073
+      },
+      {
+        "word": "VERY",
+        "word_index": 4,
+        "beat_time": 3.383
+      }
+    ],
+    "audio_file": "assets/stage49.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.952
+  },
+  {
+    "name": "Stage 50",
+    "sentence_words": [
+      "Let's",
+      "TAKE",
+      "a",
+      "break",
+      "and",
+      "RELAX."
+    ],
+    "targets": [
+      {
+        "word": "TAKE",
+        "word_index": 1,
+        "beat_time": 2.232
+      },
+      {
+        "word": "RELAX.",
+        "word_index": 5,
+        "beat_time": 3.53
+      }
+    ],
+    "audio_file": "assets/stage50.mp3",
+    "audio_offset": 0.0,
+    "audio_start_delay": 1.6,
+    "duration": 2.712
+  }
+]
