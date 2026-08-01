@@ -2,7 +2,7 @@
   {
     "name": "Stage 1",
     "sentence_words": [
-      "The",
+      "the",
       "QUICK",
       "brown",
       "FOX",
@@ -77,7 +77,7 @@
     "name": "Stage 3",
     "sentence_words": [
       "PETER",
-      "Piper",
+      "piper",
       "PICKED",
       "a",
       "PECK",
@@ -115,18 +115,13 @@
   {
     "name": "Stage 4",
     "sentence_words": [
-      "I",
+      "i",
       "REALLY",
       "love",
       "this",
       "SONG."
     ],
     "targets": [
-      {
-        "word": "I",
-        "word_index": 0,
-        "beat_time": 1.8
-      },
       {
         "word": "REALLY",
         "word_index": 1,
@@ -146,7 +141,7 @@
   {
     "name": "Stage 5",
     "sentence_words": [
-      "She",
+      "she",
       "CAN'T",
       "find",
       "her",
@@ -172,7 +167,7 @@
   {
     "name": "Stage 6",
     "sentence_words": [
-      "We",
+      "we",
       "ARE",
       "going",
       "to",
@@ -199,7 +194,7 @@
   {
     "name": "Stage 7",
     "sentence_words": [
-      "He",
+      "he",
       "WORKS",
       "very",
       "HARD",
@@ -226,12 +221,12 @@
   {
     "name": "Stage 8",
     "sentence_words": [
-      "They",
+      "they",
       "ALWAYS",
       "play",
       "SOCCER",
       "on",
-      "Sundays."
+      "sundays."
     ],
     "targets": [
       {
@@ -253,7 +248,7 @@
   {
     "name": "Stage 9",
     "sentence_words": [
-      "Please",
+      "please",
       "CLOSE",
       "the",
       "DOOR",
@@ -279,7 +274,7 @@
   {
     "name": "Stage 10",
     "sentence_words": [
-      "This",
+      "this",
       "is",
       "the",
       "BEST",
@@ -306,7 +301,7 @@
   {
     "name": "Stage 11",
     "sentence_words": [
-      "I",
+      "i",
       "NEED",
       "some",
       "HELP",
@@ -314,11 +309,6 @@
       "now."
     ],
     "targets": [
-      {
-        "word": "I",
-        "word_index": 0,
-        "beat_time": 1.8
-      },
       {
         "word": "NEED",
         "word_index": 1,
@@ -338,7 +328,7 @@
   {
     "name": "Stage 12",
     "sentence_words": [
-      "Let's",
+      "let's",
       "MEET",
       "at",
       "the",
@@ -364,7 +354,7 @@
   {
     "name": "Stage 13",
     "sentence_words": [
-      "The",
+      "the",
       "WEATHER",
       "looks",
       "really",
@@ -391,7 +381,7 @@
   {
     "name": "Stage 14",
     "sentence_words": [
-      "Can",
+      "can",
       "you",
       "HELP",
       "me",
@@ -419,7 +409,7 @@
   {
     "name": "Stage 15",
     "sentence_words": [
-      "I",
+      "i",
       "WANT",
       "to",
       "learn",
@@ -428,11 +418,6 @@
       "LANGUAGE."
     ],
     "targets": [
-      {
-        "word": "I",
-        "word_index": 0,
-        "beat_time": 1.8
-      },
       {
         "word": "WANT",
         "word_index": 1,
@@ -452,7 +437,7 @@
   {
     "name": "Stage 16",
     "sentence_words": [
-      "The",
+      "the",
       "MOVIE",
       "starts",
       "at",
@@ -479,7 +464,7 @@
   {
     "name": "Stage 17",
     "sentence_words": [
-      "My",
+      "my",
       "SISTER",
       "lives",
       "in",
@@ -507,7 +492,7 @@
   {
     "name": "Stage 18",
     "sentence_words": [
-      "We",
+      "we",
       "SHOULD",
       "leave",
       "EARLY",
@@ -533,7 +518,7 @@
   {
     "name": "Stage 19",
     "sentence_words": [
-      "He",
+      "he",
       "BOUGHT",
       "a",
       "new",
@@ -561,7 +546,7 @@
   {
     "name": "Stage 20",
     "sentence_words": [
-      "I",
+      "i",
       "FORGOT",
       "my",
       "UMBRELLA",
@@ -569,11 +554,6 @@
       "home."
     ],
     "targets": [
-      {
-        "word": "I",
-        "word_index": 0,
-        "beat_time": 1.8
-      },
       {
         "word": "FORGOT",
         "word_index": 1,
@@ -593,7 +573,7 @@
   {
     "name": "Stage 21",
     "sentence_words": [
-      "The",
+      "the",
       "CHILDREN",
       "are",
       "playing",
@@ -621,7 +601,7 @@
   {
     "name": "Stage 22",
     "sentence_words": [
-      "She",
+      "she",
       "WORKS",
       "as",
       "a",
@@ -650,7 +630,7 @@
   {
     "name": "Stage 23",
     "sentence_words": [
-      "Let's",
+      "let's",
       "ORDER",
       "some",
       "PIZZA",
@@ -676,7 +656,7 @@
   {
     "name": "Stage 24",
     "sentence_words": [
-      "I",
+      "i",
       "HAVEN'T",
       "seen",
       "him",
@@ -686,11 +666,6 @@
       "time."
     ],
     "targets": [
-      {
-        "word": "I",
-        "word_index": 0,
-        "beat_time": 1.8
-      },
       {
         "word": "HAVEN'T",
         "word_index": 1,
@@ -710,7 +685,7 @@
   {
     "name": "Stage 25",
     "sentence_words": [
-      "The",
+      "the",
       "TRAIN",
       "was",
       "DELAYED",
@@ -737,7 +712,7 @@
   {
     "name": "Stage 26",
     "sentence_words": [
-      "He",
+      "he",
       "ALWAYS",
       "arrives",
       "EARLY",
@@ -764,7 +739,7 @@
   {
     "name": "Stage 27",
     "sentence_words": [
-      "Could",
+      "could",
       "you",
       "PASS",
       "me",
@@ -792,7 +767,7 @@
   {
     "name": "Stage 28",
     "sentence_words": [
-      "We",
+      "we",
       "WATCHED",
       "a",
       "great",
@@ -820,7 +795,7 @@
   {
     "name": "Stage 29",
     "sentence_words": [
-      "The",
+      "the",
       "COFFEE",
       "is",
       "TOO",
@@ -848,7 +823,7 @@
   {
     "name": "Stage 30",
     "sentence_words": [
-      "I'm",
+      "i'm",
       "LOOKING",
       "for",
       "a",
@@ -877,7 +852,7 @@
   {
     "name": "Stage 31",
     "sentence_words": [
-      "They",
+      "they",
       "MOVED",
       "to",
       "a",
@@ -906,7 +881,7 @@
   {
     "name": "Stage 32",
     "sentence_words": [
-      "The",
+      "the",
       "DOG",
       "barked",
       "LOUDLY",
@@ -934,7 +909,7 @@
   {
     "name": "Stage 33",
     "sentence_words": [
-      "She",
+      "she",
       "SPEAKS",
       "three",
       "DIFFERENT",
@@ -960,18 +935,13 @@
   {
     "name": "Stage 34",
     "sentence_words": [
-      "I",
+      "i",
       "CAN'T",
       "remember",
       "his",
       "NAME."
     ],
     "targets": [
-      {
-        "word": "I",
-        "word_index": 0,
-        "beat_time": 1.8
-      },
       {
         "word": "CAN'T",
         "word_index": 1,
@@ -991,7 +961,7 @@
   {
     "name": "Stage 35",
     "sentence_words": [
-      "The",
+      "the",
       "FLIGHT",
       "leaves",
       "at",
@@ -1017,7 +987,7 @@
   {
     "name": "Stage 36",
     "sentence_words": [
-      "He",
+      "he",
       "PLAYS",
       "the",
       "GUITAR",
@@ -1044,7 +1014,7 @@
   {
     "name": "Stage 37",
     "sentence_words": [
-      "We",
+      "we",
       "NEED",
       "more",
       "TIME",
@@ -1072,7 +1042,7 @@
   {
     "name": "Stage 38",
     "sentence_words": [
-      "The",
+      "the",
       "STORE",
       "closes",
       "at",
@@ -1099,18 +1069,13 @@
   {
     "name": "Stage 39",
     "sentence_words": [
-      "I",
+      "i",
       "JUST",
       "finished",
       "my",
       "HOMEWORK."
     ],
     "targets": [
-      {
-        "word": "I",
-        "word_index": 0,
-        "beat_time": 1.8
-      },
       {
         "word": "JUST",
         "word_index": 1,
@@ -1130,7 +1095,7 @@
   {
     "name": "Stage 40",
     "sentence_words": [
-      "She",
+      "she",
       "SMILED",
       "and",
       "WAVED",
@@ -1157,7 +1122,7 @@
   {
     "name": "Stage 41",
     "sentence_words": [
-      "The",
+      "the",
       "WEATHER",
       "changed",
       "VERY",
@@ -1183,7 +1148,7 @@
   {
     "name": "Stage 42",
     "sentence_words": [
-      "He",
+      "he",
       "DRIVES",
       "to",
       "work",
@@ -1210,7 +1175,7 @@
   {
     "name": "Stage 43",
     "sentence_words": [
-      "I",
+      "i",
       "LOVE",
       "the",
       "SMELL",
@@ -1219,11 +1184,6 @@
       "bread."
     ],
     "targets": [
-      {
-        "word": "I",
-        "word_index": 0,
-        "beat_time": 1.8
-      },
       {
         "word": "LOVE",
         "word_index": 1,
@@ -1243,7 +1203,7 @@
   {
     "name": "Stage 44",
     "sentence_words": [
-      "They",
+      "they",
       "ARE",
       "planning",
       "a",
@@ -1270,7 +1230,7 @@
   {
     "name": "Stage 45",
     "sentence_words": [
-      "The",
+      "the",
       "BABY",
       "fell",
       "asleep",
@@ -1296,7 +1256,7 @@
   {
     "name": "Stage 46",
     "sentence_words": [
-      "We",
+      "we",
       "WALKED",
       "along",
       "the",
@@ -1324,7 +1284,7 @@
   {
     "name": "Stage 47",
     "sentence_words": [
-      "He",
+      "he",
       "FIXED",
       "the",
       "BROKEN",
@@ -1351,7 +1311,7 @@
   {
     "name": "Stage 48",
     "sentence_words": [
-      "I",
+      "i",
       "HOPE",
       "you",
       "FEEL",
@@ -1359,11 +1319,6 @@
       "soon."
     ],
     "targets": [
-      {
-        "word": "I",
-        "word_index": 0,
-        "beat_time": 1.8
-      },
       {
         "word": "HOPE",
         "word_index": 1,
@@ -1383,7 +1338,7 @@
   {
     "name": "Stage 49",
     "sentence_words": [
-      "The",
+      "the",
       "TEACHER",
       "explained",
       "it",
@@ -1410,7 +1365,7 @@
   {
     "name": "Stage 50",
     "sentence_words": [
-      "Let's",
+      "let's",
       "TAKE",
       "a",
       "break",

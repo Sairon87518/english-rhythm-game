@@ -426,7 +426,14 @@ def estimate_word_times(sentence_words, total_duration: float):
 
 
 async def build_stage(definition: dict) -> dict:
-    sentence_words = definition["sentence_words"]
+    # 強勢(2文字以上の全部大文字)の単語はそのまま、それ以外は小文字にする。
+    # "I" のように英語の文法上いつも大文字になる1文字の単語は、強勢とはみなさない。
+    def normalize_display(w: str) -> str:
+        if w.isupper() and len(clean_for_speech(w)) > 1:
+            return w
+        return w.lower()
+
+    sentence_words = [normalize_display(w) for w in definition["sentence_words"]]
     speech_text = build_speech_text(sentence_words)
     out_path = os.path.join(ASSETS_DIR, definition["audio_filename"])
 
@@ -450,7 +457,11 @@ async def build_stage(definition: dict) -> dict:
 
     targets = []
     for word_index, word in enumerate(sentence_words):
-        if word.isupper() and word_index in times_by_index:
+        # "I" のように1文字の単語は、英語の文法上いつも大文字になるため、
+        # 実際には強勢していなくても「大文字=強勢」の判定に誤って引っかかってしまう。
+        # 2文字以上の単語だけを強勢判定の対象にする。
+        is_stressed = word.isupper() and len(clean_for_speech(word)) > 1
+        if is_stressed and word_index in times_by_index:
             targets.append(
                 {"word": word, "word_index": word_index, "beat_time": times_by_index[word_index]}
             )
