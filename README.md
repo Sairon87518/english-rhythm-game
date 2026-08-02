@@ -18,17 +18,18 @@ Hard	一切光らない	表示されない(レーンの線とヒットライン�
 ミスなどのプレイ実績はSQLに書き加えられ、データとして保存されます
 データとしては以下の様なものが保存されます
 
-列名　　　　　　　　　役割
-played_at	その記録をした日時(いつプレイしたか)
-session_id	1回のプレイ(タイトル画面からリトライ・終了まで)をまとめる識別番号。同じプレイ中のタップは全部同じIDになる
-difficulty	そのプレイの難易度("EASY" / "NORMAL" / "HARD")
-sentence_id	どの文章(ステージ名、例: "Stage 4")での記録か
-target_word	タップすべきだった単語(例: "REALLY", "SONG")
-word_index	その単語が文中の何番目か(0始まり。同じ単語が2回出てくる文でも区別できる)
-target_time	正解のタイミング(音声の何秒地点で押すべきだったか)
-tap_time	　実際に押した時刻。
-timing_error	tap_time - target_time。プラスなら遅押し、マイナスなら早押し。
-result	判定結果。"PERFECT" / "GOOD" / "MISS" のどれか
+## 保存されるデータ
+
+- `played_at`：プレイ日時
+- `session_id`：1回のプレイをまとめる識別番号
+- `difficulty`：難易度
+- `sentence_id`：文章番号
+- `target_word`：タップ対象の単語
+- `word_index`：文章内の単語位置
+- `target_time`：正解のタイミング
+- `tap_time`：実際に押した時刻
+- `timing_error`：正解時刻との差
+- `result`：PERFECT・GOOD・MISS
 
 #analysisフォルダについて
 
