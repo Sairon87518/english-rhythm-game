@@ -31,7 +31,7 @@ Hard	一切光らない	表示されない(レーンの線とヒットライン�
 - `timing_error`：正解時刻との差
 - `result`：PERFECT・GOOD・MISS
 
-##analysisフォルダについて
+## analysisフォルダについて
 analysisフォルダには以下の様な内容を分析し保存しております。今後アップデートも予定しております
 - 基本統計量
 - PERFECT・GOOD・MISS割合
